@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elviskolbire
-- 🌱 I’m currently learning  c++ coding 
+- 🌱 C++ and Python programmer 
 - 📫 How to reach me ... Bireelvis@gmail.com 
 
 
